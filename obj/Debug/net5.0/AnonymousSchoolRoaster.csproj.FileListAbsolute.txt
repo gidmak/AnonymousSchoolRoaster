@@ -1,0 +1,16 @@
+C:\Users\Gideon Markus\Desktop\.NET Core\Erbaver\AnonymousSchoolRoaster\obj\Debug\net5.0\AnonymousSchoolRoaster.csprojAssemblyReference.cache
+C:\Users\Gideon Markus\Desktop\.NET Core\Erbaver\AnonymousSchoolRoaster\obj\Debug\net5.0\AnonymousSchoolRoaster.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gideon Markus\Desktop\.NET Core\Erbaver\AnonymousSchoolRoaster\obj\Debug\net5.0\AnonymousSchoolRoaster.AssemblyInfoInputs.cache
+C:\Users\Gideon Markus\Desktop\.NET Core\Erbaver\AnonymousSchoolRoaster\obj\Debug\net5.0\AnonymousSchoolRoaster.AssemblyInfo.cs
+C:\Users\Gideon Markus\Desktop\.NET Core\Erbaver\AnonymousSchoolRoaster\obj\Debug\net5.0\AnonymousSchoolRoaster.csproj.CoreCompileInputs.cache
+C:\Users\Gideon Markus\Desktop\.NET Core\Erbaver\AnonymousSchoolRoaster\bin\Debug\net5.0\AnonymousSchoolRoaster.exe
+C:\Users\Gideon Markus\Desktop\.NET Core\Erbaver\AnonymousSchoolRoaster\bin\Debug\net5.0\AnonymousSchoolRoaster.deps.json
+C:\Users\Gideon Markus\Desktop\.NET Core\Erbaver\AnonymousSchoolRoaster\bin\Debug\net5.0\AnonymousSchoolRoaster.runtimeconfig.json
+C:\Users\Gideon Markus\Desktop\.NET Core\Erbaver\AnonymousSchoolRoaster\bin\Debug\net5.0\AnonymousSchoolRoaster.runtimeconfig.dev.json
+C:\Users\Gideon Markus\Desktop\.NET Core\Erbaver\AnonymousSchoolRoaster\bin\Debug\net5.0\AnonymousSchoolRoaster.dll
+C:\Users\Gideon Markus\Desktop\.NET Core\Erbaver\AnonymousSchoolRoaster\bin\Debug\net5.0\ref\AnonymousSchoolRoaster.dll
+C:\Users\Gideon Markus\Desktop\.NET Core\Erbaver\AnonymousSchoolRoaster\bin\Debug\net5.0\AnonymousSchoolRoaster.pdb
+C:\Users\Gideon Markus\Desktop\.NET Core\Erbaver\AnonymousSchoolRoaster\obj\Debug\net5.0\AnonymousSchoolRoaster.dll
+C:\Users\Gideon Markus\Desktop\.NET Core\Erbaver\AnonymousSchoolRoaster\obj\Debug\net5.0\ref\AnonymousSchoolRoaster.dll
+C:\Users\Gideon Markus\Desktop\.NET Core\Erbaver\AnonymousSchoolRoaster\obj\Debug\net5.0\AnonymousSchoolRoaster.pdb
+C:\Users\Gideon Markus\Desktop\.NET Core\Erbaver\AnonymousSchoolRoaster\obj\Debug\net5.0\AnonymousSchoolRoaster.genruntimeconfig.cache
