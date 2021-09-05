@@ -39,16 +39,16 @@ namespace AnonymousSchoolRoaster
                 
             }
             Console.WriteLine("TOTAL STUDENTS: " + scores.Count);
-            Console.WriteLine("ABOVE 70: " + firstTier);
-            Console.WriteLine("BETWEEN 50 AND 69: " + secondTier);
-            Console.WriteLine("BELOW 50: " + failed);
-            //Console.WriteLine(examScores.Next(1,100));
+            Console.WriteLine("PASSED (70 AND ABOVE): " + firstTier);
+            Console.WriteLine("AVERAGE (50 - 69): " + secondTier);
+            Console.WriteLine("FAILED (BELOW 50): " + failed);
+            Console.WriteLine("S/N        SCORES");
 
             int roll = 0;
             foreach(int totalScore in scores)
             {
                 roll++;
-                Console.WriteLine(roll+") " + totalScore);
+                Console.WriteLine(roll+"           " + totalScore);
             }
         }
     }
